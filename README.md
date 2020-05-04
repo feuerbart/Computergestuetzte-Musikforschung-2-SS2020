@@ -3,3 +3,4 @@ Materialien zum Kurs "Einführung in die computergestützte Musikforschung 2" im
 
 
 - **[27.04.2020 Einführung MIR | Einführung Numpy](/01/)**
+- **[04.05.2020 Numpy | Matplotlib | Sinustöne generieren | Audio in Notebooks | Frequenzen, Tonhöhen, MIDI-Notenwerte](/02/)**
