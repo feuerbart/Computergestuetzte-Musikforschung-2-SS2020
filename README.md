@@ -7,3 +7,4 @@ Materialien zum Kurs "Einführung in die computergestützte Musikforschung 2" im
 - **[04.05.2020 Numpy | Matplotlib | Sinustöne generieren | Audio in Notebooks | Frequenzen, Tonhöhen, MIDI-Notenwerte](/02/)**
 - **[11.05.2020 Hausaufgabenbesprechung | Frequenzen, MIDI](/03/)**
 - **[18.05.2020 matplotlib/pyplot 01](/04/)**
+- **[25.05.2020 matplotlib/pyplot 02 | music21](/05/)**
