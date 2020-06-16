@@ -8,4 +8,5 @@ Materialien zum Kurs "Einführung in die computergestützte Musikforschung 2" im
 - **[11.05.2020 Hausaufgabenbesprechung | Frequenzen, MIDI](/03/)**
 - **[18.05.2020 matplotlib/pyplot 01](/04/)**
 - **[25.05.2020 matplotlib/pyplot 02 | music21](/05/)**
-- **[08.06.2020 Mikrotonale Intervalle | Fensterung | Amplituden-Envelopes](/06/)
+- **[08.06.2020 Mikrotonale Intervalle | Fensterung | Amplituden-Envelopes](/06/)**
+- **[15.06.2020 music21: Harmonische Analyse](/07/)**
