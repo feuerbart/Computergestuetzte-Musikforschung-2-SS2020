@@ -12,4 +12,5 @@ Materialien zum Kurs "Einführung in die computergestützte Musikforschung 2" im
 - **[15.06.2020 music21: Harmonische Analyse](/07/)**
 - **[22.06.2020 Fourier Transformation angewandt](/08/)**
 - **[29.06.2020 music21: Bach und Picard'sche Terz](/09/)**
-- **[06.07.2020 music21: Motivsuche (B-A-C-H)](/09/)**
+- **[06.07.2020 music21: Motivsuche (B-A-C-H)](/10/)**
+- **[13.07.2020 STFT | Log-Frequency-Spectrogram | Chromagram](/11/)
